@@ -4,7 +4,7 @@
 ## Todo
 - [ ] Add multiple channels support
 
-## Deploy
+## Deployhttps://heroku.com/deploy?template=https://github.com/sara1541/force-subscribe-telegram-bot/tree/main
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
