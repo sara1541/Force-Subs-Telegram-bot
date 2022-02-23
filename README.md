@@ -18,7 +18,7 @@ sudo apt-get install git python3 python3-pip libpq-dev
 ### Installation
 - Clone this repo
 ```sh
-git clone https://github.com/viperadnan-git/force-subscribe-telegram-bot
+git clone https://github.com/sara1541/force-subscribe-telegram-bot
 ```
 - Change directory
 ```sh
